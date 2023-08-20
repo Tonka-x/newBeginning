@@ -1,1 +1,5 @@
 # newBeginning
+-N
+-e
+-w
+
