@@ -1,5 +1,5 @@
 # newBeginning
--N
+N
 e
 w
 
