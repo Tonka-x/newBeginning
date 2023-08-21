@@ -1,5 +1,5 @@
 # newBeginning
 -N
 -e
--w
+w
 
