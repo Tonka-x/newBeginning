@@ -1,5 +1,4 @@
 # newBeginning
 N
-e
-w
+ew
 
