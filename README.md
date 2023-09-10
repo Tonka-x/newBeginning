@@ -1,4 +1,4 @@
-# newBeginning.
+# newBeginning
 
 New
 
